@@ -5,20 +5,19 @@
 
 ## Algorithms used
 **Regression:**<br/>
-• _Linear Regression_<br/>
-• _Multiple-Linear Regression_<br/>
-• _Logistic Regression_<br/>
-• _Lasso and Ridge Regression (L1 & L2 Regularization)_<br/>
-• _Elastic-Net Regression_
+• Linear Regression<br/>
+• Logistic Regression<br/>
+• Lasso and Ridge Regression<br/>
+• Elastic-Net Regression
 
 **Classification:**<br/>
-• _K-Nearest Neighbours_<br/>
-• _Support Vector Machine_<br/>
-• _Naive Bayes_<br/>
-• _Decision Tree_<br/>
+• K-Nearest Neighbours<br/>
+• Support Vector Machine<br/>
+• Naive Bayes<br/>
+• Decision Tree<br/>
  
 **Clustering:**<br/>
-• _K-Means_<br/>
+• K-Means<br/>
   
 **Ensemble:**<br/>
-• _Random Forest_<br/>
+• Random Forest<br/>
